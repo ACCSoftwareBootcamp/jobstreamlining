@@ -1,0 +1,19 @@
+{
+  "name": "jobstreamlining",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ACCSoftwareBootcamp/jobstreamlining.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ACCSoftwareBootcamp/jobstreamlining/issues"
+  },
+  "homepage": "https://github.com/ACCSoftwareBootcamp/jobstreamlining#readme"
+}
