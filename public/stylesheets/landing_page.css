@@ -3,9 +3,9 @@
     padding: 0;
 }
 body{
-    background-image: url('../assets/pngwing.com.png');
+    background-image: url('../assets/Untitled_design.png');
     background-size: cover;
-    color: blue;
+    color: grey;
     width: 100%;
 }
 
@@ -20,6 +20,6 @@ body{
     
 }
 #working{
-    width: 75%;
+    width: 75em;
     
 }
