@@ -1,11 +1,12 @@
 const express = require('express')
 const app = express()
+app.use(express.static("public"));
 
 const logger = require('morgan')
 app.use(logger('dev'))
 
 app.get('/', (req, res) => {
-    res.send(`This is the root Route`)
+    res.render('landing.ejs')
 })
 
 
